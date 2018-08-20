@@ -121,7 +121,7 @@ html {
 	padding: 10px;
 }
 
-.hover-catalog-parent:hover > a {
+.site-navigation-link:hover a{
 	background-color: white;
 	color: black;
 	border-radius: 20px;
